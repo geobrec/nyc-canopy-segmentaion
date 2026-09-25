@@ -83,7 +83,7 @@ def cut_chips(landcover):
 
     print(f"{kept} chips written, {skipped} skipped")
 
-    def load_chips():
+def load_chips():
         out = []
         for f in sorted(config.CHIPS_DIR.glob("*.npz")):
             d = np.load(f)
