@@ -9,7 +9,7 @@ New York City's LiDAR-derived land cover data.
 and this imagery was flown on 5 November 2021, when some crowns had turned and
 some hadn't.
 
-**[Live map](https://geobrec.github.io/nyc-canopy-segmentaion/))**
+**[Live map](https://geobrec.github.io/nyc-canopy-segmentaion/)**
 
 ![Canopy by neighbourhood](figures/05_choropleth.png)
 
